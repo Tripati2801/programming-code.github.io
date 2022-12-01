@@ -1,0 +1,38 @@
+body{
+    background:blueviolet;
+}
+.jumbotron{
+    background:red;
+}
+.container{
+    
+    margin-top: 200px;
+}
+.jumbotron a{
+    background: yellow;
+    color: red;
+    border: 2px solid green;
+}
+h1{
+    color:white;
+    text-align: center;
+    background: yellowgreen;
+}
+table,thead,th,tr,td{
+    color: yellow;
+    border: 2px solid white;
+    font-size: 20px;
+    margin: auto;
+    background: red;
+}
+thead,th{
+    color: white;
+    border: 2px solid white;
+    font-size: 20px;
+    margin: auto;
+    background: blue;
+}
+table tr:nth-of-type(even){
+    background: #f4c242;
+}
+
